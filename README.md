@@ -2,7 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ruzulchaure?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ruzulchaure?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/ruzulchaure)
+[![Email](https://img.shields.io/badge/Gmail-ruzulchaure2185@gmail.com-red?logo=gmail&logoColor=white)](mailto:ruzulchaure2185@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rujul%20Chaure-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rujul-chaure-3171252a3/)
 ![Languages](https://img.shields.io/badge/Speaks-English%20%7C%20Hindi%20%7C%20Marathi%20%7C%20Japanese%20(Basic)-green)
 
 I'm a passionate **Full Stack Developer** who loves turning ideas into functional, user-friendly digital experiences. With a strong foundation in web and mobile development, I specialize in building scalable applications using modern technologies.
