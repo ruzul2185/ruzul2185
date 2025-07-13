@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into functiona
 
 ## 💼 About Me
 
-- 🎓 **B.Tech in Computer Science Engineering** from G.H. Raisoni College of Engineering (CGPA: 8.69)
+- 🎓 **B.Tech in Computer Science Engineering** from G.H. Raisoni College of Engineering
 - 🔧 Experienced in building full-stack applications with **ReactJS**, **NextJS**, **NodeJS**, and **CakePHP**
 - 📱 Developed cross-platform mobile apps using **React Native** (Android + iOS)
 - 🌐 Backend skills include working with **Express.js**, **MySQL**, and **MongoDB**
